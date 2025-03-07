@@ -1,0 +1,30 @@
+1;Juan Perez;juan@mail.com;Laptop Pro;01-04-2025;El producto es excelente y superó mis expectativas.
+2;Maria Gomez;maria@mail.com;Smartphone X;02-04-2025;El smartphone es excelente y tiene un diseño innovador.
+3;Carlos Ruiz;carlos@mail.com;Laptop Basic;03-04-2025;El rendimiento es malo y deficiente.
+4;Ana Martinez;ana@mail.com;Laptop Pro;04-04-2025;Una experiencia excelente en todos los aspectos.
+5;Laura Diaz;laura.mail.com;Smartphone X;05-04-2025;El dispositivo es malo y decepcionante.
+6;Pedro Lopez;pedro@mail.com;Laptop Basic;06-04-2025;Muy malo, no lo recomiendo.
+7;Lucia Fernandez;lucia@mail.com;Smartphone X;07-04-2025;La experiencia es normal y aceptable.
+8;Ricardo Morales;ricardo@mail.com;Laptop Pro;08-04-2025;El producto es excelente pero podría mejorar en velocidad.
+9;Sofia Sanchez;sofia@mail.com;Laptop Basic;09-04-2025;Deficiente en cuanto a rendimiento, muy malo.
+10;Diego Herrera;diego@mail.com;Smartphone X;10-04-2025;Excelente calidad y diseño, una experiencia muy buena.
+11;Elena Rios;elena@mail.com;Laptop Pro;11-04-2025;Experiencia excelente aunque el precio es elevado.
+12;Andres Lopez;andres@mail.com;Smartphone X;12-04-2025;El smartphone es pésimo, la batería se agota rápidamente.
+13;Carla Jimenez;carla@mail.com;Laptop Basic;13-04-2025;El rendimiento es malo y decepcionante.
+14;Marcos Diaz;marcos@mail.com;Laptop Pro;14-04-2025;Fantástica experiencia, producto excelente.
+15;Susana Ruiz;susana@mail.com;Smartphone X;15-04-2025;
+16;Victor Castro;victor@mail.com;Laptop Basic;16-04-2025;Experiencia muy mala, producto insuficiente.
+17;Alma Garcia;alma@mail.com;Laptop Pro;17-04-2025;Excelente, superó todas mis expectativas.
+18;Julio Perez;julio@mail.com;Smartphone X;18-04-2025;Regular, cumple su función.
+19;Rosa Sanchez;rosa@mail.com;Laptop Basic;19-04-2025;Pésimo rendimiento, muy malo.
+20;Martin Alvarez;martin@mail.com;Laptop Pro;20-04-2025;Una experiencia excelente, producto sobresaliente.
+21;Paula Fernandez;paula@mail.com;Smartphone X;21-04-2025;Producto excelente, muy recomendable.
+22;Oscar Mendoza;oscar@mail.com;Smartphone X;22-04-2025;La calidad es excelente, superó mis expectativas.
+23;Claudia Torres;claudia#mail.com;Laptop Pro;23-04-2025;El producto es excelente y funcional.
+24;Fernando Ruiz;fernando@mail.com;Laptop Basic;24/04-2025;El rendimiento es insuficiente y poco fiable.
+25;Marcela Silva;marcela@mail.com;Smartphone X;25-04-2025;
+26;Roberto Lopez;roberto@mail.com;Smartphone X;26-04-2025;El producto es excelente.
+27;Ana Gomez;ana@mail.com;Laptop Pro;27-04-2025;El producto está ok.
+28;Diego Martinez;diego.martinez@mail.com;Laptop Basic;28-04-2025;La calidad es muy buena y excelente en todos los aspectos.
+29;Sandra Lopez;sandra@mail.com;Smartphone X;29-04-2025;Normal, cumple su función.
+30;Fernando Lopez;fernando.lopez@mail.com;Laptop Pro;30-04-2025;El dispositivo es malo y terrible en todos los aspectos.
